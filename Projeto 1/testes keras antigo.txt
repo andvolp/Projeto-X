@@ -1,0 +1,13 @@
+entendimento 
+
+batchsize=2 acuracia 0.4406
+batchsize=4 acuracia 0.4406
+batchsize=8 acuracia 0.4406
+batchsize=16 acuracia 0.5406
+batchsize=32 acuracia 0.5375
+batchsize=64 acuracia 0.6062
+batchsize=128 acuracia 0.7156
+batchsize=256 acuracia 0.75
+batchsize=512 acuracia 0.7437
+batchsize=1024 acuracia 0.7343
+batchsize=2048 acuracia 0.7281

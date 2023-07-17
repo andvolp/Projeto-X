@@ -1,0 +1,41 @@
+dense bathsize=128
+
+1 ac=0.7468 loss=0.5216
+2 ac=0.7281 loss=0.5261
+4 ac=0.7406 loss=0.5172
+8 ac=0.7718 loss=0.4824
+16 ac=0.7593 loss=0.5535
+32 ac=0.7968 loss=0.6523
+64 ac=0.7843 loss=1.0121
+128 ac=0.7906 loss = 1.229
+256 ac=0.7968 loss=1.2205
+512 ac=0.7968 loss=1.5036
+1024 ac=80.0000 loss = 1.4874
+2048 ac=0.7968 loss=1.6842
+4096 ac=0.8000 loss=1.7772
+
+dense bathsize=64
+
+1 ac=0.7531 loss=0.5219
+2 ac=0.7343 loss=0.5146
+4 ac=0.7218 loss=0.5517
+8 ac=0.7562 loss=0.5407
+16 ac=0.7624 loss0.5955
+32 ac=0.7718 loss=1.0299
+64 ac=0.7531 loss=1.5598
+128 ac=0.7875 loss=1.2699
+256 ac=0.7968 loss=1.5389
+512 ac=0.8187 loss=1.4269
+1024 ac=0.8249 loss=1.7500
+2048 ac=0.7937 loss=1.8747
+4096 ac=0.8031 loss1.8260
+
+dense bathsize=32
+1 ac=0.7437 loss=0.5221
+2 ac=0.7218 loss=0.5235
+4 ac=0.7718 loss=0.4955
+8 ac=0.7624 loss=0.55098
+16 ac=0.7593 loss=0.5685
+32 ac=0.7624 loss1.0174
+
+objtivo atingir 85 de precisao
