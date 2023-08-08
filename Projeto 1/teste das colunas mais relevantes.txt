@@ -1,0 +1,5 @@
+com 6 colunas
+acuarcia: 0.8343750238418579
+colunas: 0+1+5+7+9+10
+
+com 7 colunas
